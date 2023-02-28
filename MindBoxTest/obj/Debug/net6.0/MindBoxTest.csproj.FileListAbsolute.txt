@@ -1,0 +1,15 @@
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\bin\Debug\net6.0\MindBoxTest.exe
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\bin\Debug\net6.0\MindBoxTest.deps.json
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\bin\Debug\net6.0\MindBoxTest.runtimeconfig.json
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\bin\Debug\net6.0\MindBoxTest.dll
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\bin\Debug\net6.0\MindBoxTest.pdb
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.csproj.AssemblyReference.cache
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.AssemblyInfoInputs.cache
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.AssemblyInfo.cs
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.dll
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\refint\MindBoxTest.dll
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.pdb
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\MindBoxTest.genruntimeconfig.cache
+C:\Users\TAKIZAWA\source\repos\MindBoxTest\obj\Debug\net6.0\ref\MindBoxTest.dll
